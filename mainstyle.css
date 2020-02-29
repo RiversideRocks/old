@@ -1,0 +1,66 @@
+body {
+  background-color: black;
+  font-family: Calibri;
+}
+
+h1 {
+  color: grey;
+  background-color: yellow;
+  font-size: 58px;
+}
+
+h2 {
+  color: black;
+  background-color: yellow;
+}
+
+h3 {
+  color: black;
+  background-color: yellow;
+}
+
+h4 {
+  color: black;
+  background-color: yellow;
+}
+
+h5 {
+  color: black;
+  background-color: yellow;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  background-color: yellow;
+  font-size: 25px;
+}
+
+p {
+  font-size: 20px;
+  background-color: #b9ff69;
+}
+
+#weather {
+  background-color: #475956;
+  border-color: white;
+}
+
+#weatherwindy {
+  background-color: #475956;
+}
+
+#camera{
+  background-color: #475956;
+}
+
+::selection {
+  background: black;
+  text-color: white;
+}
+
+#notice {
+  background-color: red;
+}
